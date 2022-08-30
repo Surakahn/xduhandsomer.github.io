@@ -4,9 +4,9 @@
   xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>何进全的BLOG</title>
-    <link>http://example.com/</link>
+    <link>https://xduhandsomer.github.io/</link>
     
-    <atom:link href="http://example.com/rss2.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://xduhandsomer.github.io/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>任重而道远</description>
     <pubDate>Tue, 30 Aug 2022 07:48:08 GMT</pubDate>
@@ -14,8 +14,8 @@
     
     <item>
       <title>第一篇博客-打招呼</title>
-      <link>http://example.com/2022/08/30/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2-%E6%89%93%E6%8B%9B%E5%91%BC/</link>
-      <guid>http://example.com/2022/08/30/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2-%E6%89%93%E6%8B%9B%E5%91%BC/</guid>
+      <link>https://xduhandsomer.github.io/2022/08/30/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2-%E6%89%93%E6%8B%9B%E5%91%BC/</link>
+      <guid>https://xduhandsomer.github.io/2022/08/30/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2-%E6%89%93%E6%8B%9B%E5%91%BC/</guid>
       <pubDate>Tue, 30 Aug 2022 03:44:34 GMT</pubDate>
       
         
@@ -26,21 +26,21 @@
       
       
       
-      <content:encoded><![CDATA[<h1 id="自述"><a href="#自述" class="headerlink" title="自述"></a>自述</h1><p>何进全天下第一帅</p><h2 id="给你们看点图片"><a href="#给你们看点图片" class="headerlink" title="给你们看点图片"></a>给你们看点图片</h2><p><img src="1.png" alt="1"><br><img src="2.png" alt="2"><br><img src="3.png" alt="3"><br><img src="4.png" alt="4"></p><h2 id="谢谢观看"><a href="#谢谢观看" class="headerlink" title="谢谢观看"></a>谢谢观看</h2>]]></content:encoded>
+      <content:encoded><![CDATA[<h1 id="自述"><a href="#自述" class="headerlink" title="自述"></a>自述</h1><p>何进全天下第一帅</p><h2 id="给你们看点图片"><a href="#给你们看点图片" class="headerlink" title="给你们看点图片"></a>给你们看点图片</h2><p><img src="/1.png" alt="1"><br><img src="/2.png" alt="2"><br><img src="/3.png" alt="3"><br><img src="/4.png" alt="4"></p><h2 id="谢谢观看"><a href="#谢谢观看" class="headerlink" title="谢谢观看"></a>谢谢观看</h2>]]></content:encoded>
       
       
       
-      <category domain="http://example.com/tags/%E5%BB%BA%E7%AB%99-%E6%8B%9B%E5%91%BC/">建站 招呼</category>
+      <category domain="https://xduhandsomer.github.io/tags/%E5%BB%BA%E7%AB%99-%E6%8B%9B%E5%91%BC/">建站 招呼</category>
       
       
-      <comments>http://example.com/2022/08/30/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2-%E6%89%93%E6%8B%9B%E5%91%BC/#disqus_thread</comments>
+      <comments>https://xduhandsomer.github.io/2022/08/30/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2-%E6%89%93%E6%8B%9B%E5%91%BC/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>Hello World</title>
-      <link>http://example.com/2022/08/28/hello-world/</link>
-      <guid>http://example.com/2022/08/28/hello-world/</guid>
+      <link>https://xduhandsomer.github.io/2022/08/28/hello-world/</link>
+      <guid>https://xduhandsomer.github.io/2022/08/28/hello-world/</guid>
       <pubDate>Sun, 28 Aug 2022 15:13:34 GMT</pubDate>
       
         
@@ -55,7 +55,7 @@
       
       
       
-      <comments>http://example.com/2022/08/28/hello-world/#disqus_thread</comments>
+      <comments>https://xduhandsomer.github.io/2022/08/28/hello-world/#disqus_thread</comments>
       
     </item>
     
