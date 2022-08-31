@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>何进全的BLOG</title>
+    <link>https://xduhandsomer.github.io/</link>
+    
+    <atom:link href="https://xduhandsomer.github.io/rss2.xml" rel="self" type="application/rss+xml"/>
+    
+    <description>任重而道远</description>
+    <pubDate>Tue, 30 Aug 2022 12:25:03 GMT</pubDate>
+    <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>第一篇博客-打招呼</title>
+      <link>https://xduhandsomer.github.io/%EF%BC%9Ayear/08/30/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2-%E6%89%93%E6%8B%9B%E5%91%BC/</link>
+      <guid>https://xduhandsomer.github.io/%EF%BC%9Ayear/08/30/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2-%E6%89%93%E6%8B%9B%E5%91%BC/</guid>
+      <pubDate>Tue, 30 Aug 2022 11:21:54 GMT</pubDate>
+      
+        
+        
+      <description>&lt;p&gt;欢迎来到何进全的BOLG！这是我发布的第一个帖子。有关更多信息，我将持续更新完善我的博客。如果您在阅读本文时遇到任何问题，可以点击博文标题进入正文滑倒最下方评论告诉我，也可以在&lt;a href=&quot;https://github.com/xduhandsomer&quot;&gt;GitHub&lt;</description>
+        
+      
+      
+      
+      <content:encoded><![CDATA[<p>欢迎来到何进全的BOLG！这是我发布的第一个帖子。有关更多信息，我将持续更新完善我的博客。如果您在阅读本文时遇到任何问题，可以点击博文标题进入正文滑倒最下方评论告诉我，也可以在<a href="https://github.com/xduhandsomer">GitHub</a>上找到我。</p><h1 id="自述"><a href="#自述" class="headerlink" title="自述"></a>自述</h1><p>何进全天下第一帅！（毋庸置疑，除非你能黑了我的网站😜😜）</p><h2 id="给你们看些图片"><a href="#给你们看些图片" class="headerlink" title="给你们看些图片"></a>给你们看些图片</h2><p><img src="/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2-%E6%89%93%E6%8B%9B%E5%91%BC/1.png" alt="1"><br><img src="/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2-%E6%89%93%E6%8B%9B%E5%91%BC/2.png" alt="2"><br><img src="/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2-%E6%89%93%E6%8B%9B%E5%91%BC/3.png" alt="3"><br><img src="/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2-%E6%89%93%E6%8B%9B%E5%91%BC/4.png" alt="4"></p><h2 id="谢谢观看"><a href="#谢谢观看" class="headerlink" title="谢谢观看"></a>谢谢观看</h2>]]></content:encoded>
+      
+      
+      
+      <category domain="https://xduhandsomer.github.io/tags/%E5%8D%9A%E5%AE%A2-%E6%8B%9B%E5%91%BC/">博客 招呼</category>
+      
+      
+      <comments>https://xduhandsomer.github.io/%EF%BC%9Ayear/08/30/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2-%E6%89%93%E6%8B%9B%E5%91%BC/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>Hello World</title>
+      <link>https://xduhandsomer.github.io/%EF%BC%9Ayear/08/28/hello-world/</link>
+      <guid>https://xduhandsomer.github.io/%EF%BC%9Ayear/08/28/hello-world/</guid>
+      <pubDate>Sun, 28 Aug 2022 15:13:34 GMT</pubDate>
+      
+        
+        
+      <description>&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</description>
+        
+      
+      
+      
+      <content:encoded><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content:encoded>
+      
+      
+      
+      
+      <comments>https://xduhandsomer.github.io/%EF%BC%9Ayear/08/28/hello-world/#disqus_thread</comments>
+      
+    </item>
+    
+  </channel>
+</rss>
